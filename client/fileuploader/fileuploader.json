@@ -1,0 +1,29 @@
+{
+  "name": "fileuploader",
+  "bpm": "1.0.0",
+  "bpm:build": {
+    "bpm_libs.js": {
+			"spade:format": "function",
+      "files": [
+        "lib"
+      ]
+    },
+	"uploader_lib.js": {
+		"spade:format": "function",
+      "directories": [
+        "lib/uploader/lib"
+      ]
+    },
+    "bpm_styles.css": {
+      "files": [
+        "css"
+      ]
+    }
+  },
+	"dependencies": {
+	    "ember": ">= 0",
+		"ember-statechart": ">= 0",
+		"ember-datastore": ">= 0",
+	    "spade": ">= 0"
+	  }
+}

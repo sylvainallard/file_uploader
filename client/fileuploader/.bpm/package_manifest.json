@@ -1,0 +1,74 @@
+{
+  "ember": {
+    "version": "0.9.3",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/ember"
+  },
+  "ember-statechart": {
+    "version": "0.9",
+    "path": "/Users/sylvain/.bpm/gems/ember-statechart-0.9"
+  },
+  "ember-datastore": {
+    "version": "0.9",
+    "path": "/Users/sylvain/.bpm/gems/ember-datastore-0.9"
+  },
+  "spade": {
+    "version": "1.0.2",
+    "path": "/Users/sylvain/.bpm/gems/spade-1.0.2"
+  },
+  "ember-runtime": {
+    "version": "0.9.3",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/ember-runtime"
+  },
+  "ember-views": {
+    "version": "0.9.3",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/ember-views"
+  },
+  "ember-states": {
+    "version": "0.9.3",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/ember-states"
+  },
+  "ember-handlebars": {
+    "version": "0.9.3",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/ember-handlebars"
+  },
+  "ember-handlebars-format": {
+    "version": "0.9.3",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/ember-handlebars-format"
+  },
+  "ember-utils": {
+    "version": "0.9",
+    "path": "/Users/sylvain/.bpm/gems/ember-utils-0.9"
+  },
+  "ember-datetime": {
+    "version": "0.9.3",
+    "path": "/Users/sylvain/.bpm/gems/ember-datetime-0.9.3"
+  },
+  "ember-indexset": {
+    "version": "0.9",
+    "path": "/Users/sylvain/.bpm/gems/ember-indexset-0.9"
+  },
+  "ember-metal": {
+    "version": "0.9.3",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/ember-metal"
+  },
+  "spade-qunit": {
+    "version": "1.0.1",
+    "path": "/Users/sylvain/.bpm/gems/spade-qunit-1.0.1"
+  },
+  "jquery": {
+    "version": "1.7.1",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/jquery-1.7.1"
+  },
+  "handlebars": {
+    "version": "1.0.0.beta.3",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/handlebars"
+  },
+  "metamorph": {
+    "version": "1.0.0",
+    "path": "/Volumes/TERRA/gitroot/file_uploader/client/fileuploader/vendor/metamorph"
+  },
+  "qunit": {
+    "version": "1.0.1",
+    "path": "/Users/sylvain/.bpm/gems/qunit-1.0.1"
+  }
+}

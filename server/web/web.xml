@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+   
+    
+    <servlet>
+        <servlet-name>UploadFile</servlet-name>
+        <servlet-class>org.fileuploader.servlet.UploadFile</servlet-class>
+    </servlet>
+   <servlet-mapping>
+     <servlet-name>UploadFile</servlet-name>
+        <url-pattern>/upload/*</url-pattern>
+    </servlet-mapping>  
+    <session-config>
+        <!--idle time in minutes -->
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <listener>
+        <listener-class>org.fileuploader.ContextListener</listener-class>
+    </listener>
+</web-app>

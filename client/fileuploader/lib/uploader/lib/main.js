@@ -1,0 +1,9 @@
+require("ember");
+require("ember-statechart");
+require("./app");
+require("./model/file")
+require("./controllers/files");
+require("./core_statechart");
+require("./core_uploader");
+require("./views/upload_field");
+require("./views/button");
